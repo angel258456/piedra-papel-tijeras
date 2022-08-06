@@ -1,0 +1,21 @@
+.parrafos{
+    font-size: xx-large;
+text-align: center;
+}
+.contenedorBotones{
+    margin: 0;
+    width: 100%;
+    display: flex
+    ;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+   
+
+    
+}
+.contenedorBotones> button{
+    font-size: xx-large;
+    text-emphasis: 5;
+    text-align: start;
+}
